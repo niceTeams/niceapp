@@ -1,0 +1,31 @@
+@charset "utf-8";
+body,h1,h2,h3,h4,h5,h6,p,a,img,ul,li,ol,dl,dt,dd,input{ padding:0; margin:0}
+ul,ol{ list-style:none;}
+input{ outline:none;}
+img{ display:block; border:0;}
+body{ font-size:12px; color:black; background: #f7f7f7 }
+a{ font-size:12px;text-decoration:none; color:#666;}
+.l{ float:left;}
+.r{ float:right}
+header,nav,main,aside,article,footer,figure,figcaption,section{ display:block;}
+html,body{ height:100%;}
+*{ box-sizing:border-box;}
+html{ font-size:26.67vw;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
