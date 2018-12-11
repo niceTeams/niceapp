@@ -1,0 +1,294 @@
+@charset "utf-8";
+/*CSS Document*/
+/*header*/
+header{
+    width:100%;
+    display: flex;
+    align-items:center;
+    position: fixed;
+    left:0;
+    top:0;
+    z-index:100;
+    color:white;
+}
+.location{
+    font-size:.13rem;
+    margin-left:.12rem;
+    margin-right:.1rem;
+    display: flex;
+    align-items:center;
+}
+.location i{
+    font-size:.2rem;
+    margin-right:.02rem;
+}
+.search{
+    font-size:.14rem;
+    color:#616161;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    flex:1;
+    margin:.09rem 0;
+    border-radius:.04rem;
+    padding:.04rem;
+}
+.search .icon-search{
+    font-size:.2rem;
+    margin:0 .04rem 0 .02rem;
+}
+.search .searchText{
+    flex:1;
+}
+.search .searchImg{
+    width:.24rem;
+    height:.24rem;
+}
+.icons{
+    margin-left:.1rem;
+}
+.icons .iconfont{
+    font-size:.2rem;
+    margin-right:.08rem;
+}
+/*contentBox*/
+.contentBox{
+    flex:1;
+    overflow: scroll;
+}
+/* slider */
+.swiper-container {
+    width: 3.75rem;
+	height: 1.69rem;
+	background-color:skyblue;
+}
+.swiper-slide img{
+	width:3.75rem;
+	height:1.69rem;
+}
+
+
+/* moneyHrefs */
+.moneyHrefs{
+    width:96%;
+    display: flex;
+    background-color: #f8fcfd;
+    margin:.08rem auto;
+    border-radius:.02rem;
+}
+.moneyHrefs .moneyHref{
+    flex:1;
+    font-size:.12rem;
+    color:black;
+    text-align: center;
+    line-height: .12rem;
+}
+.moneyHref img{
+    display: inline-block;
+    width:.48rem;
+    height:.48rem;
+    margin-top: .05rem;
+}
+.moneyHref p{
+    margin-top: .08rem;
+    margin-bottom: .25rem;
+}
+/* lottery */
+.lottery{
+    width:96%;
+    background-color:white;
+    display: flex;
+    padding:.1rem 0;
+    margin:0 auto;
+    border-radius:.02rem;
+}
+.lottery .lotteryImg{
+    width:.65rem;
+    height:.15rem;
+    margin:0 .1rem 0 .08rem;
+}
+.lottery .lotteryText{
+    font-size:.13rem;
+    color:black;
+    flex:1;
+}
+.lottery .icon-you{
+    font-size:.15rem;
+    color:#666;
+    margin-right:.1rem;
+}
+/*giftBag*/
+.giftBag{
+    display:flex;
+    width:100%;
+    justify-content: flex-start;
+    margin:.08rem 0;
+}
+.giftBag img{
+    width:3.55rem;
+    height:1.12rem;
+    margin:0 auto;
+}
+/*superProduct*/
+.superProduct{
+    width:96%;
+    background-color:white;
+    margin:0 auto;
+}
+.superProduct .productTit{
+    display: flex;
+    height:.4rem;
+    align-items: center;
+}
+.productTit .p-title{
+    font-size:.16rem;
+    margin-left:.1rem;
+    margin-right:.05rem;
+}
+.productTit #countDown{
+    font-size:.1rem;
+    flex:1;
+    margin-right:.05rem;
+    display:flex;
+}
+#countDown span{
+    background-color:#606060;
+    display: block;
+    height:.17rem;
+    padding:0 .03rem;
+    line-height:.17rem;
+    color:white;
+    border-radius:.03rem;
+}
+.productTit .p-href{
+    font-size:.13rem;
+    color:#fa2209;
+    margin-right:.08rem;
+}
+.superProduct .productScroll{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: scroll;
+}
+.productScroll .productBox{
+    width:1rem;
+    display: block;
+    margin-left:.1rem;
+}
+.productBox .productImg{
+    width:1rem;
+    height:1rem;
+}
+.productBox .productName{
+    font-size:.12rem;
+    width:1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color:black;
+    margin-top:.1rem;
+    line-height:.12rem;
+}
+.productBox .price{
+    font-size:.08rem;
+    color:#ff3527;
+    margin-top:.06rem;
+    padding-bottom:.08rem;
+}
+.price .price1{
+    font-size:.11rem;
+    color:#ff3527;
+}
+.price .price2{
+    color:#666;
+    text-decoration:line-through;
+}
+/*.superBrands*/
+.superBrands{
+    width:96%;
+    margin:0 auto .08rem;
+    background-color: white;
+    display: flex;
+}
+.superBrands .brandBox{
+    width:50%;
+}
+.superBrands .brandBox:nth-child(1){
+    background-color:#fef7e5;
+}
+.superBrands .brandBox:nth-child(2){
+    background-color:#f2f6ff;
+}
+.brandBox .brandTit{
+    font-size:.16rem;
+    line-height:.35rem;
+    text-indent:.05rem;
+}
+.brandBox .brandImgs{
+    display: flex;
+    justify-content:space-around;
+    padding-bottom:.08rem;
+}
+.brandImgs img:nth-child(1){
+    width:.9rem;
+    height:.95rem;
+}
+.brandImgs img:nth-child(2){
+    width:.75rem;
+    height:.95rem;
+}
+/*goBox*/
+.goBox{
+    width:96%;
+    margin:0 auto .08rem;
+}
+.goBox .goBox1{
+    display: flex;
+}
+.goBox1 img{
+    width:50%;
+    height:1.25rem;
+}
+.goBox .goBox2{
+    display: flex;
+    overflow: scroll;
+    background-color: white;
+}
+.goBox2 .go-small{
+    margin-right:.2rem;
+}
+.goBox2 .go-small:first-child{
+    margin-left:.15rem;
+}
+.go-small img{
+    width:.8rem;
+    height:.8rem;
+}
+.go-small p{
+    font-size: .12rem;
+    text-align: center;
+    line-height: .3rem;
+}
+/*footer*/
+.footer{
+    display: flex;
+    background-color:white;
+}
+.footer .pageHref{
+    flex:1;
+    text-align: center;
+}
+.pageHref img{
+    width:.25rem;
+    height:.25rem;
+    display: inline-block;
+    margin-top:.05rem;
+}
+.pageHref p{
+    font-size:.1rem;
+    line-height: .2rem;
+    color:#666;
+}
+.pageHref .redText{
+    color:#f14c5a;
+}

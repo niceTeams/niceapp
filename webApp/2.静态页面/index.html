@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <link rel="stylesheet" type="text/css" href="css/public.css"/>
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+    <link rel="stylesheet" type="text/css" href="css/iconfont.css"/>
+    <link rel="stylesheet" type="text/css" href="css/swiper.css"/>
+</head>
+<body>
+<header>
+    <div class="location">
+        <i class="iconfont icon-location"></i>
+        西安
+    </div>
+    <a href="#" class="search">
+        <i class="iconfont icon-search"></i>
+        <p class="searchText">抢11111金币&nbsp;天天抽奖</p>
+        <img class="searchImg" src="images/index-gold.jpg">
+    </a>
+    <div class="icons">
+        <i class="iconfont icon-saoyisao"></i>
+        <i class="iconfont icon-search"></i>
+    </div>
+</header>
+<div class="contentBox">
+    <!-- slider -->
+    <div class="swiper-container" id="slider_vue">
+        <div class="swiper-wrapper">
+            <div href="#" class="swiper-slide" v-for="s in sliderImgs">
+                <img :src="s.sliderImg"/>
+            </div>
+        </div>
+    </div>
+    <!--moneyHrefs-->
+    <div class="moneyHrefs">
+        <a href="#" class="moneyHref">
+            <!-- <img src="images/index-moneyHref1.jpg"/> -->
+            <img src="images/index-moneyHref1.gif"/>
+            <p>天天签到</p>
+        </a>
+        <a href="#" class="moneyHref">
+            <img src="images/index-moneyHref2.jpg"/>
+            <p>天天抽奖</p>
+        </a>
+        <a href="#" class="moneyHref">
+            <img src="images/index-moneyHref3.gif"/>
+            <p>充值中心</p>
+        </a>
+        <a href="#" class="moneyHref">
+            <img src="images/index-moneyHref4.jpg"/>
+            <p>领券中心</p>
+        </a>
+        <a href="#" class="moneyHref">
+            <img src="images/index-moneyHref5.jpg"/>
+            <p>9.9元</p>
+        </a>
+    </div>
+    <!-- lottery -->
+    <a href="#" class="lottery">
+        <img class="lotteryImg" src="images/index-lottery.jpg"/>
+        <p class="lotteryText">天天抽大奖&nbsp;抢11111金币&gt;&gt;</p>
+        <i class="iconfont icon-you"></i>
+    </a>
+    <!-- giftBag -->
+    <a href="#" class="giftBag">
+        <img src="images/index-giftBag.jpg"/>
+    </a>
+    <!--superProduct-->
+    <div class="superProduct">
+        <div class="productTit">
+            <h3 class="p-title">超级单品</h3>
+            <div id="countDown">
+                <span id="hour">00</span>&nbsp;:&nbsp;
+                <span id="minutes">00</span>&nbsp;:&nbsp;
+                <span id="seconds">00</span>
+            </div>
+            <a href="#" class="p-href">精选好物等你来逛&gt;&gt;</a>
+        </div>
+        <div class="productScroll">
+            <a href="#" class="productBox">
+                <img class="productImg" src="images/index-product1.jpg"/>
+                <p class="productName">艾美特艾美特艾美特艾美特</p>
+                <div class="price">
+                    ￥<span class="price1">279.0</span>
+                    <span class="price2">￥699.0</span>
+                </div>
+            </a>
+            <a href="#" class="productBox">
+                <img class="productImg" src="images/index-product2.jpg"/>
+                <p class="productName">伊赛 巴西进口牛肉</p>
+                <div class="price">
+                    ￥<span class="price1">25.8</span>
+                    <span class="price2">￥55.0</span>
+                </div>
+            </a>
+            <a href="#" class="productBox">
+                <img class="productImg" src="images/index-product3.jpg"/>
+                <p class="productName">金锣 千叶豆腐四包装</p>
+                <div class="price">
+                    ￥<span class="price1">9.8</span>
+                    <span class="price2">￥19.9</span>
+                </div>
+            </a>
+            <a href="#" class="productBox">
+                <img class="productImg" src="images/index-product3.jpg"/>
+                <p class="productName">金锣 千叶豆腐</p>
+                <div class="price">
+                    ￥<span class="price1">9.8</span>
+                    <span class="price2">￥19.9</span>
+                </div>
+            </a>
+        </div>
+    </div>
+    <!--superBrands-->
+    <div class="superBrands">
+        <div class="brandBox">
+            <h3 class="brandTit">超级品牌</h3>
+            <div class="brandImgs">
+                <img src="images/index-fish1-1.jpg"/>
+                <img src="images/index-fish1-2.jpg"/>
+            </div>
+        </div>
+        <div class="brandBox">
+            <h3 class="brandTit">超级品类</h3>
+            <div class="brandImgs">
+                <img src="images/index-fish2-1.jpg"/>
+                <img src="images/index-fish2-2.jpg"/>
+            </div>
+        </div>
+    </div>
+    <!--goBox-->
+    <div class="goBox">
+        <div class="goBox1">
+            <img src="images/index-go1-1.jpg"/>
+            <img src="images/index-go1-2.jpg"/>
+        </div>
+        <div class="goBox2">
+            <div class="go-small">
+                <img src="images/index-go2-1.jpg"/>
+                <p>牛奶</p>
+            </div>
+            <div class="go-small">
+                <img src="images/index-go2-2.jpg"/>
+                <p>坚果炒货</p>
+            </div>
+            <div class="go-small">
+                <img src="images/index-go2-3.jpg"/>
+                <p>巧克力/糖果</p>
+            </div>
+            <div class="go-small">
+                <img src="images/index-go2-2.jpg"/>
+                <p>饼干</p>
+            </div>
+        </div>
+    </div>
+    <!--goBox2-->
+    <div class="goBox">
+        <div class="goBox1">
+            <img src="images/index-go1-3.jpg"/>
+            <img src="images/index-go1-4.jpg"/>
+        </div>
+        <div class="goBox2">
+            <div class="go-small">
+                <img src="images/index-go2-4.jpg"/>
+                <p>大闸蟹</p>
+            </div>
+            <div class="go-small">
+                <img src="images/index-go2-5.jpg"/>
+                <p>猪牛羊肉</p>
+            </div>
+            <div class="go-small">
+                <img src="images/index-go2-6.jpg"/>
+                <p>海鲜水产</p>
+            </div>
+            <div class="go-small">
+                <img src="images/index-go2-5.jpg"/>
+                <p>猪牛羊肉</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- footer -->
+<div class="footer">
+    <a href="#" class="pageHref">
+        <img src="images/footer-index-red.jpg"/>
+        <p class="redText">首页</p>
+    </a>
+    <a href="#" class="pageHref">
+        <img src="images/footer-details-gray.jpg"/>
+        <p>分类</p>
+    </a>
+    <a href="#" class="pageHref">
+        <img src="images/footer-1pintang-gray.jpg"/>
+        <p>1品堂</p>
+    </a>
+    <a href="#" class="pageHref">
+        <img src="images/footer-car-gray.jpg"/>
+        <p>购物车</p>
+    </a>
+    <a href="#" class="pageHref">
+        <img src="images/footer-my-gray.jpg"/>
+        <p>我的1号店</p>
+    </a>
+</div>
+</body>
+</html>
+<script src="js/swiper.js"></script>
+<script src="node_modules/vue/dist/vue.js"></script>
+<script src="js/index.js"></script>

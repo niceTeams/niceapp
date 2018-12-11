@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="568cf86d-21c7-4c11-8916-df2e5023cae3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-773926703">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="3136" />
+          <entry key="html" value="1668" />
+          <entry key="js" value="185" />
+          <entry key="json" value="92" />
+          <entry key="vue" value="665" />
+          <entry key="www" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="3136" />
+          <entry key="HTML" value="1668" />
+          <entry key="JSON" value="92" />
+          <entry key="JavaScript" value="189" />
+          <entry key="Vue.js" value="665" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="9" />
+          <entry key="html" value="6" />
+          <entry key="js" value="7" />
+          <entry key="json" value="1" />
+          <entry key="rnc" value="1" />
+          <entry key="vue" value="27" />
+          <entry key="www" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="6" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="8" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="Vue.js" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2.静态页面/js/index.js" />
+        <option value="$PROJECT_DIR$/2.静态页面/css/public.css" />
+        <option value="$PROJECT_DIR$/2.静态页面/index.html" />
+        <option value="$PROJECT_DIR$/2.静态页面/css/index.css" />
+        <option value="$PROJECT_DIR$/2.静态页面/css/login.css" />
+        <option value="$PROJECT_DIR$/2.静态页面/login.html" />
+        <option value="$PROJECT_DIR$/2.静态页面/enter.html" />
+        <option value="$PROJECT_DIR$/2.静态页面/css/enter.css" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/pages/index.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexHeader.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/assets/css/iconfont.css" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexSlider.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexMoneyHref.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexMoneyHrefs.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexLottery.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexGiftBag.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexSuperProduct.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexSuperBrands.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexGoBox.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexGoBox2.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexContentBox.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexFooter.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/router/index.js" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/enter/EnterHeader.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/enter/EnterImportBox.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/enter/EnterContentBox.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/pages/Enter.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/enter/EnterBottom.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/apis/dataApis.js" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/schema.js" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-api-service/bin/www" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-api-service/data/product.data.json" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-api-service/routes/product.js" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/pages/Index.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexContentBox.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexSuperProduct.vue" />
+        <option value="$PROJECT_DIR$/5.源代码/1号店-api-service/data/product.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/5.源代码/1号店-api-service/node_modules" />
+    <handled-path value="$PROJECT_DIR$/5.源代码/1号店-webapp/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/2.静态页面/node_modules/vue/package.json" />
+      <path value="$PROJECT_DIR$/5.源代码/1号店-api-service/package.json" />
+      <path value="$PROJECT_DIR$/5.源代码/1号店-webapp/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="340" />
+    <option name="y" value="10" />
+    <option name="width" value="1515" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1号店-webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1号店-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1号店-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1号店-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+              <item name="enter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1号店-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1号店-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1号店-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1号店" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1号店" type="462c0819:PsiDirectoryNode" />
+              <item name="5.源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1号店-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-api-service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-api-service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-api-service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="data" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-api-service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="routes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="apis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="commons" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="index" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5.源代码" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1号店-webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="1号店" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\12088\Desktop\团队框架项目" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../团队框架项目" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12088\Desktop\1号店\5.源代码\1号店-webapp\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="www" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="www" working-dir="$PROJECT_DIR$/5.源代码/1号店-api-service/bin">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.www" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="568cf86d-21c7-4c11-8916-df2e5023cae3" name="Default Changelist" comment="" />
+      <created>1543461547232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543461547232</updated>
+      <workItem from="1543461553337" duration="15568000" />
+      <workItem from="1543483660459" duration="11026000" />
+      <workItem from="1543540522635" duration="1537000" />
+      <workItem from="1543542213485" duration="6115000" />
+      <workItem from="1543548471403" duration="4471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38717000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.735007" visible="true" weight="0.19418758" />
+      <window_info id="Structure" order="1" sideWeight="0.264993" side_tool="true" weight="0.28335536" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29149234" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.47419804" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3090">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.静态页面/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.静态页面/css/public.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.静态页面/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.静态页面/css/enter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.静态页面/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.静态页面/enter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="e#225#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/assets/css/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/index/IndexMoneyHref.vue" />
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexMoneyHrefs.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexSlider.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexLottery.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#154#160#0" expanded="true" />
+            <element signature="e#168#172#0" expanded="true" />
+            <element signature="e#172#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexGiftBag.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/enter/EnterHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexGoBox2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="61" column="3" lean-forward="true" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexGoBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexSuperBrands.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/pages/Enter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#176#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/enter/EnterBottom.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <folding>
+            <element signature="e#74#80#0" expanded="true" />
+            <element signature="e#80#86#0" expanded="true" />
+            <element signature="e#92#98#0" expanded="true" />
+            <element signature="e#98#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/enter/EnterContentBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/enter/EnterImportBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../团队框架项目/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-api-service/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-api-service/data/product.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-api-service/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-api-service/routes/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexContentBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexSuperProduct.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="e#165#171#0" expanded="true" />
+            <element signature="e#172#178#0" expanded="true" />
+            <element signature="e#215#221#0" expanded="true" />
+            <element signature="e#222#228#0" expanded="true" />
+            <element signature="e#320#324#0" expanded="true" />
+            <element signature="e#324#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/components/index/IndexFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/pages/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#190#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/commons/schema.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.源代码/1号店-webapp/src/apis/dataApis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

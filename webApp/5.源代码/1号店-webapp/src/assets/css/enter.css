@@ -1,0 +1,122 @@
+@charset "utf-8";
+/*CSS Document*/
+body{
+    background-color: #eeeeee;
+}
+/*header*/
+header{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    height:.5rem;
+    align-items:center;
+    background-color: white;
+    margin-bottom:.16rem;
+}
+.closeBtn{
+    font-size:.15rem;
+    color:#e63932;
+    margin-left:.15rem;
+}
+.headerText{
+    font-size:.18rem;
+}
+.loginBtn{
+    font-size:.15rem;
+    color:#e63932;
+    margin-right:.15rem;
+}
+/*contentBox*/
+.contentBox{
+    flex:1;
+}
+/*importBox*/
+.importBox{
+    width:100%;
+    background-color: white;
+}
+.importBox .import{
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+.import .importImg{
+    width:.25rem;
+    height:.25rem;
+    margin:.1rem .1rem .1rem .15rem;
+}
+.import .importText{
+    flex:1;
+    height:.45rem;
+    display: flex;
+    align-items: center;
+}
+.import .border{
+    border-bottom:.01rem solid #f0f0f0;
+}
+.importText span{
+    font-size:.16rem;
+    margin-right:.16rem;
+}
+.importText input{
+    padding:.12rem 0 .1rem;
+    border:none;
+    outline: none;
+    font-size:.14rem;
+}
+/*enterBtn*/
+.enterBtn{
+    width:96%;
+    height:.45rem;
+    background-color:#3894f8;
+    color:white;
+    border-radius:.03rem;
+    margin:.08rem auto;
+    text-align: center;
+    font-size:.16rem;
+    line-height:.45rem;
+    display: block;
+}
+/*forget*/
+.forget{
+    font-size:.15rem;
+    color:#3894f8;
+    margin-left:.08rem;
+    text-decoration: underline;
+}
+/*footer*/
+.bottom{
+    width:100%;
+}
+.bottom .bottomText1{
+    font-size:.14rem;
+    color:#8d8d8d;
+    text-align: center;
+    margin-bottom:.3rem;
+}
+.bottom .images{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom:.15rem;
+}
+.images a:first-child{
+    margin-left: .2rem;
+}
+.images a:last-child{
+    margin-right: .2rem;
+}
+.images img{
+    width:.46rem;
+    height:.46rem;
+}
+.bottom .bottomText2{
+    font-size:.14rem;
+    color:#b5b5b5;
+    text-align: center;
+    margin-bottom:.1rem;
+}
+.bottomText2 a{
+    color:#818181;
+    text-decoration:underline;
+}
+
